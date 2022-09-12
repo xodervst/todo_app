@@ -2,6 +2,23 @@
 This is an Todo app with feature to create, delete, mark completed, mark uncompleted and edit to-do items.
 
 
+Preview:
+
+
+https://user-images.githubusercontent.com/96247771/189717104-4ec2fe8d-2127-4bfe-87af-828fbee43fcd.mp4
+
+
+
+ToDo App:
+
+![image](https://user-images.githubusercontent.com/96247771/189717069-6f0dac7a-c8bf-4817-bca8-3eff56522112.png)
+
+
+MongoDB Database:
+
+![image](https://user-images.githubusercontent.com/96247771/189716960-0cb374bc-139f-46de-b5f8-d4cbcbd3716c.png)
+
+
 # Installation Required
 
 ## 1. Node
